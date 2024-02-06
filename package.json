@@ -1,0 +1,38 @@
+{
+  "name": "pushfeedback-react",
+  "version": "0.1.27",
+  "description": "PushFeeback wrapper for React",
+  "author": "David Garcia <hi@davidgarcia.dev>",
+  "homepage": "https://github.com/PushLabsHQ/pushfeedback-react#readme",
+  "license": "ISC",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/types/index.d.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "dist"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "pushfeedback": "^0.1.27"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PushLabsHQ/pushfeedback-react.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/react-library.test.js",
+    "build": "npm run tsc",
+    "tsc": "tsc -p ."
+  },
+  "bugs": {
+    "url": "https://github.com/PushLabsHQ/pushfeedback-react/issues"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
