@@ -1,6 +1,6 @@
 {
   "name": "pushfeedback-react",
-  "version": "0.1.28",
+  "version": "0.1.30",
   "description": "PushFeeback wrapper for React",
   "author": "David Garcia <hi@davidgarcia.dev>",
   "homepage": "https://github.com/PushLabsHQ/pushfeedback-react#readme",
@@ -18,7 +18,7 @@
     "access": "public"
   },
   "dependencies": {
-    "pushfeedback": "^0.1.37"
+    "pushfeedback": "^0.1.39"
   },
   "repository": {
     "type": "git",
