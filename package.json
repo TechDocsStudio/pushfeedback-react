@@ -1,6 +1,6 @@
 {
   "name": "pushfeedback-react",
-  "version": "0.1.44",
+  "version": "0.1.45",
   "description": "PushFeeback wrapper for React",
   "author": "David Garcia <hi@davidgarcia.dev>",
   "homepage": "https://github.com/PushLabsHQ/pushfeedback-react#readme",
