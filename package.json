@@ -1,6 +1,6 @@
 {
   "name": "pushfeedback-react",
-  "version": "0.1.50",
+  "version": "0.1.53",
   "description": "PushFeeback wrapper for React",
   "author": "TechDocs Studio <hi@techdocs.studio>",
   "homepage": "https://github.com/TechDocsStudio/pushfeedback-react#readme",
@@ -18,7 +18,7 @@
     "access": "public"
   },
   "dependencies": {
-    "pushfeedback": "^0.1.49"
+    "pushfeedback": "^0.1.53"
   },
   "repository": {
     "type": "git",
